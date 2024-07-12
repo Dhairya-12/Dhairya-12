@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhairya Chauhan</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate MERN Stack developer from India</h3>
 
 <p align="left"> <a href="https://x.com/CDhairya12" target="blank"><img src="https://img.shields.io/twitter/follow/CDhairya12?logo=twitter&style=for-the-badge" alt="CDhairya12" /></a> </p>
 
@@ -7,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/snahild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="snahild" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/snahildasawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="snahildasawat" height="30" width="40" /></a>
-<a href="https://fb.com/snahildasawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="snahildasawat" height="30" width="40" /></a>
-<a href="https://instagram.com/snahil_dasawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="snahil_dasawat" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/snahil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="snahil" height="30" width="40" /></a>
+<a href="https://x.com/CDhairya12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="CDhairya12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dhairya-chauhan-1182331b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dhairya Chauhan" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100007976893186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Dhairya Chauhan" height="30" width="40" /></a>
+<a href="https://www.instagram.com/dhairya_10.6/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhairya_10.6" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/dhairyachauhan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="dhairyaChauhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
