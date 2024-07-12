@@ -1,11 +1,9 @@
-<h1 align="center">Hi 👋, I'm Snahil Singh Dasawat</h1>
+<h1 align="center">Hi 👋, I'm Dhairya Chauhan</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dsnahil&label=Profile%20views&color=0e75b6&style=flat" alt="dsnahil" /> </p>
+<p align="left"> <a href="https://x.com/CDhairya12" target="blank"><img src="https://img.shields.io/twitter/follow/CDhairya12?logo=twitter&style=for-the-badge" alt="CDhairya12" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/snahild" target="blank"><img src="https://img.shields.io/twitter/follow/snahild?logo=twitter&style=for-the-badge" alt="snahild" /></a> </p>
-
-- 📫 How to reach me **dsnahil@gmail.com**
+- 📫 How to reach me **chauhandhairya12@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
