@@ -1,7 +1,3 @@
-Sure, here's a customized README file structure for Dhairya Chauhan:
-
----
-
 # Hi 👋, I'm Dhairya Chauhan
 
 A passionate MERN Stack Developer from India.
