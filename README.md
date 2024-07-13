@@ -86,9 +86,3 @@
 </a> 
 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dsnahil&show_icons=true&locale=en&layout=compact" alt="dsnahil" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dsnahil&show_icons=true&locale=en" alt="dsnahil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dsnahil&" alt="dsnahil" /></p>
